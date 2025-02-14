@@ -1,4 +1,4 @@
-# DATSNVIM
+# ERICKNVIM
 
 This is a personal configuration for Neovim. You can use it as starting point for yours, you can use it as yours, etc. Feel free to use it as you wish.
 
@@ -6,7 +6,6 @@ This is a personal configuration for Neovim. You can use it as starting point fo
 
 ![Preview](./assets/preview.png)
 
-*Note: using [vesper](https://github.com/datsfilipe/vesper.nvim) in the screenshot.*
 
 ## Installation
 
@@ -19,3 +18,5 @@ git clone https://github.com/datsfilipe/datsnvim.git ~/.config/nvim && nvim
 ## License
 
 Refer to [LICENSE](./LICENSE).
+
+*Note: I created this config from [datsnvim](https://github.com/datsfilipe/datsnvim) config.*
